@@ -1,4 +1,4 @@
-# Git Demo Repo
+# Git Demo repository / oim, eezgh
 This is a sample repository / sample app for the Git coarse.
 
 ## How To Work With Git
