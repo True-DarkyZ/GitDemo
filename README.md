@@ -1,5 +1,5 @@
 # Git Demo Repo
-This is a sample repository for the Git coarse.
+This is a sample repository / sample app for the Git coarse.
 
 ## How To Work With Git
 1. git checkout main
